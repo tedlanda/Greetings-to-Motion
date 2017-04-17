@@ -15,6 +15,6 @@ Many builds have been loaded from Unity to my Android Nexus 5X device. Each time
 ![Alt Text](https://github.com/tedlanda/Greetings-to-Motion/blob/master/Screenshots:/Android2.png)
 
 **Conclusion**
-There were several challenges when creating the Greetings to Motion. For starters, this was my first project in Unity that I have ever created. I was thankful to get a template from the Udacity team along with some instructional videos to guide me in getting started. Those downloadable zip files paved the way to my originality and allowed me to get started with developement for cardboard on Android and iOS. 
+There were several challenges when creating the Greetings to Motion mobile application. For starters, this was my first project in Unity that I have ever created. I was thankful to get a template from the Udacity team along with some instructional videos to guide me in getting started. Those downloadable zip files paved the way to my originality and allowed me to get started with development for cardboard on Android and iOS. 
 
 
