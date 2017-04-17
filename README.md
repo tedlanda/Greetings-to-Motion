@@ -11,8 +11,10 @@ __User Testing__
 Many builds have been loaded from Unity to my Android Nexus 5X device. Each time something went wrong, it was up to me to correct it. Sometimes the shape wouldn't toggle when I wanted it to and sometimes the colors of the menu items were the same as the template. I wanted the game to be as original as possible so after a few builds I decided to rename the menu items in a unique format. I changed the highlight colors and after a while, I was able to design a flawless application. 
 
 **Breakdown of final piece**
-
+![Alt Text](https://github.com/tedlanda/Greetings-to-Motion/blob/master/Screenshots:/Android1.png)
+![Alt Text](https://github.com/tedlanda/Greetings-to-Motion/blob/master/Screenshots:/Android2.png)
 
 **Conclusion**
+There were several challenges when creating the Greetings to Motion. For starters, this was my first project in Unity that I have ever created. I was thankful to get a template from the Udacity team along with some instructional videos to guide me in getting started. Those downloadable zip files paved the way to my originality and allowed me to get started with developement for cardboard on Android and iOS. 
 
 
